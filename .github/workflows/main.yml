@@ -1,4 +1,4 @@
-name: RDP
+name: parveetkiRDP
 
 on:
   workflow_dispatch:
